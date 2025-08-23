@@ -1,17 +1,24 @@
 # Ahoj, já jsem Marek 👋
 
-Jsem začínající programátor se zájmem o full stack vývoj, ale nejvíc mě baví frontend.  
-Pracuji s PHP, JavaScriptem, TypeScriptem, Reactem, Gitem a MySQL. Neztratím se ani v Pythonu nebo SCSS.  
+Jsem samouk, který se programování věnuje více než rok. Zaměřuji se na full stack vývoj, ale nejvíc mě baví frontend.  
+Pracuji s PHP, JavaScriptem, TypeScriptem, Reactem, Gitem a MySQL. Mám zkušenosti i s Pythonem, SCSS a dalšími technologiemi.  
 Rád tvořím projekty, u kterých se můžu něco nového naučit a posouvat se dál.
 
 ---
 
-## 🔧 Technologie, se kterými pracuji
+## 🔧 Dovednosti
 
-- **Jazyky:** PHP, JavaScript, TypeScript, Python (základy)
-- **Frontend:** React, TailwindCSS, SCSS, HTML, CSS
-- **Backend & databáze:** PHP, MySQL
-- **Nástroje:** Git, GitHub
+**Frontend**  
+HTML, CSS, SCSS, TailwindCSS, JavaScript, TypeScript, React  
+
+**Backend**  
+PHP, Node.js, Python (základy)  
+
+**Databáze**  
+MySQL, PostgreSQL  
+
+**Nástroje a workflow**  
+Git, VS Code  
 
 ---
 
