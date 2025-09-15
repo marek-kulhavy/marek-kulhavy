@@ -1,6 +1,6 @@
 # Ahoj, já jsem Marek 👋
 
-Jsem samouk, který se programování věnuje více než rok. Zaměřuji se na full stack vývoj, ale nejvíc mě baví frontend.  
+Jsem samouk, který se programování věnuje dva roky. Zaměřuji se na full stack vývoj, ale nejvíc mě baví frontend.  
 Pracuji s PHP, JavaScriptem, TypeScriptem, Reactem, Gitem a MySQL. Mám zkušenosti i s Pythonem, SCSS a dalšími technologiemi.  
 Rád tvořím projekty, u kterých se můžu něco nového naučit a posouvat se dál.
 
@@ -9,7 +9,7 @@ Rád tvořím projekty, u kterých se můžu něco nového naučit a posouvat se
 ## 🔧 Dovednosti
 
 **Frontend**  
-HTML, CSS, SCSS, TailwindCSS, JavaScript, TypeScript, React  
+HTML, CSS, SCSS, TailwindCSS, Bootstrap, JavaScript, TypeScript, React  
 
 **Backend**  
 PHP, Node.js, Python (základy)  
