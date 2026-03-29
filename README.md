@@ -11,13 +11,20 @@ Rád tvořím projekty, u kterých se můžu něco nového naučit a posouvat se
 HTML, CSS, SCSS, TailwindCSS, Bootstrap, JavaScript, TypeScript, React  
 
 **Backend**  
-PHP, Laravel, Node.js, Python (základy)  
+PHP, Laravel, Nette (základy) Node.js, Python (základy)  
 
 **Databáze**  
 MySQL, PostgreSQL  
 
 **Nástroje a workflow**  
 Git, VS Code  
+
+---
+
+### 🚀 [GitHub Analyzer](https://github.com/marek-kulhavy/github-analyzer)
+Pokročilý nástroj pro vizualizaci a hloubkovou analýzu GitHub profilů. Aplikace efektivně komunikuje s GitHub REST API, využívá bezpečné uložení API klíčů a nabízí plynulé rozhraní s dynamickým načítáním.
+* **Klíčové funkce:** Server-side paginace repozitářů, caching API požadavků, interaktivní statistiky jazyků, detailní přehledy commitů.
+* **Tech stack:** Nette (PHP 8.2), React, TypeScript, TailwindCSS, Guzzle, Framer Motion.
 
 ---
 
